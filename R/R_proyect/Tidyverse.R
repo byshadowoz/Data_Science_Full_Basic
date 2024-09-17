@@ -18,7 +18,7 @@ pacman::p_load(pacman, dplyr, GGally, ggplot2, ggthemes,
   ggvis, httr, lubridate, plotly, rio, rmarkdown, shiny, 
   stringr, tidyr) 
 
-library(datasets)  # Load/unload base packages manually
+warninlibrary(datasets)  # Load/unload base packages manually
 
 # CLEAN UP #################################################
 
