@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - ipykernel
   - python=3.10.12
   - numpy
   - pandas
   - matplotlib
   - scikit-learn
+  - xlrd
+
