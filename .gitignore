@@ -2,8 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-
-Machine_learning/Unsupervised Learning/.ipynb_checkpoints/Dimensionality_reduction_prt3-checkpoint.ipynb
-Machine_learning/Unsupervised Learning/.ipynb_checkpoints/Dimensionality_reduction_prt2-checkpoint.ipynb
-Machine_learning/Unsupervised Learning/.ipynb_checkpoints/Clustering_prt1-checkpoint.ipynb
-Machine_learning/Cross Validation/.ipynb_checkpoints/Introduction-checkpoint.ipynb
+**/.ipynb_checkpoints/**
