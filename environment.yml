@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10.12
+  - python
   - numpy
   - pandas
   - matplotlib
@@ -11,4 +11,6 @@ dependencies:
   - pytorch
   - torchvision
   - xlrd
+  - openpyxl
+  - mlxtend
 
