@@ -10,7 +10,6 @@
    - [Supervised Learning](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Supervised%20Learnng) Fundamentals of   Regression and clasification models 
    - [Unsupervised Learning](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Unsupervised%20Learning) in process...
    - [Cross Validation](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Cross%20Validation) This module mix Unsupervised and Supervised models and focus and how to find the best model and parameters for the dataset in each
-3. [R](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/R) This module is not necessary but if you want to learn a language focused on visualization this is a good option
-4. [Visualization](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Visualization) This module is for create data visualizations in Python and R
+3. [Visualization](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Visualization) This module is for create data visualizations in Python
 ***
 This Repository is in development can be added more modules like Database with SQL and NoSQL
