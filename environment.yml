@@ -13,4 +13,6 @@ dependencies:
   - xlrd
   - openpyxl
   - mlxtend
+  - seaborn
+  - plotly
 
