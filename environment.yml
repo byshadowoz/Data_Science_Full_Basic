@@ -15,4 +15,6 @@ dependencies:
   - mlxtend
   - seaborn
   - plotly
-
+  - requests
+  - psycopg2
+  - SQLAlchemy
