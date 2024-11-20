@@ -10,7 +10,7 @@
 3. [Databases](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Databases) In Databases modules i would try to explain concepts and how works a Database, i will be focus on SQL Databases but i will tried to explain NoSQL also.
 4. [Machine Learnings](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning) This has three modules
    - [Supervised Learning](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Supervised%20Learnng) Fundamentals of   Regression and clasification models 
-   - [Unsupervised Learning](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Unsupervised%20Learning) in process...
+   - [Unsupervised Learning](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Unsupervised%20Learning) Fundamentals of Clustering and Dimension Reduction
    - [Cross Validation](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Machine_learning/Cross%20Validation) This module mix Unsupervised and Supervised models and focus and how to find the best model and parameters for the dataset in each
 5. [Visualization](https://github.com/byshadowoz/Data_Science_Full_Basic/tree/main/Visualization) This module is for create data visualizations in Python with matplotlib, seaborn & plotly, How to extract information from differents ways (Web Scrap, APIs, Databases, CSVs, SpreedSheets, etc...), also how to find patterns and valuable insights
 ***
